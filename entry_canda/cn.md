@@ -55,15 +55,15 @@ $$
 
 ## 2. 前往住處
 - 在出境大廳先找 PRESTO(多倫多的悠遊卡) 機台，長得像這樣：
-![presto](https://www.theglobeandmail.com/resizer/3VSyCfVQymYvnSu5ySK5XlNUwCU=/1200x0/filters:quality(80):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/tgam/I6NQLVKI2ZJUNB2RWRGITNBRFU.jpg)
+    <img src="./assets/presto_machine.avif" width="500">
 - 買 PRESTO 卡，我是買 $26 元 (卡片6元 + 20 元儲值)
-    ![presto](./assets/presto.png)
+    <img src="./assets/presto.png" width="500">
 - 之後的路徑圖如下：
-    ![route](./assets/route.png)
+    <img src="./assets/route.png" width="500">
 - 上二樓(不確定樓層，樓梯就在 PRESTO 機台旁) 過天橋搭乘 UP Express 到 Bloor Go (用 PRESTO 卡刷卡)
 - 找 Dundas West Station，進站後到地下室，搭往 Kennedy 方向搭到 Spandina
 - 之後就可以一路走到住宿了
 
 ## 3. Move-In
-- 進入住宿後，先去前台拿鑰匙，拿 passport 給櫃檯人員，他們會幫你辦理 move-in.
+- 進入住宿後，先去前台拿鑰匙，拿 passport 給櫃檯人員，他們會幫你辦理 move-in. 
 - Enjoy your stay!
