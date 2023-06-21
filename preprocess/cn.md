@@ -24,7 +24,8 @@
 - [申請網址](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html)
 - 體感上很快就會核可(個人經驗20分鐘)，但是還是建議越早申請越好
 - 申請後會綁定在你的護照號碼上，如果在搭機前沒有 eta，你會被地勤人員擋下來
-- 雖然 [letter of introduction](#letter-of-introduction) 上寫說會在入關時一起發給你 study permit 與 eta (如下圖)，$\color{red}{\text{但是還是建議先申請好 eta，不然你在搭機時會一直被詢問為何沒有 eta，有被延誤的風險。}}$
+- 雖然 [letter of introduction](#letter-of-introduction) 上寫說會在入關時一起發給你 study permit 與 eta (如下圖)
+- $\color{red}\text{但是還是建議先申請好eta\, 不然你在搭機時會一直被詢問為何沒有 eta\, 有被延誤的風險}$
     <img src="./assets/study_permit_with_eta.png" width="500" />
 
     
@@ -46,10 +47,13 @@
 ## 3. 尋找住宿
 - 我們會使用 [UofT校內的住宿系統](https://starportal.utoronto.ca/StarRezPortalX/17114769/1/1/Home-StarRez___University?UrlToken=A81613AE) 來尋找住宿，因為時間點特殊所以不見得會有住宿，請參考 [住宿資訊](https://starportal.utoronto.ca/StarRezPortalX/9CD7C4D3/13/120/The_Residences-The_Residences?UrlToken=1D790EA8) 多家一起申請比較有機會。 
 - 申請時會需要繳交 `$100 加幣` 的申請費，如果沒有住宿，會退還費用。一次費用可以進行多次不同住宿的申請。
-- 當住宿核可時，會收到 `Offer of Residence` (如下圖) ，登入系統繳交保證金後，等待後續 `Move-In Information`。
-    <img src="./assets/offer_of_residence.png" width="500" />    
+- 當住宿核可時，會收到 `Offer of Residence` (如下圖)，登入系統繳交保證金後，等待後續 `Move-In Information。
+    
+    <img src="./assets/offer_of_residence.png" width="500" />
+
     - 特別注意一下你的 $\color{red}\text{Start Date}$，有很大機率會跟你當初申請的日期不同，你可以嘗試去跟住宿系統的人員溝通，但是不見得會成功。
 - 收到 `Move-In Infromation` (如下圖)就可以開始準備行李了。
+
     <img src="./assets/movein_info.png" width="500" />      
     
 ## 4. 準備行李
@@ -96,6 +100,7 @@
     - 電池
     - 鏡頭
 - 延長線(跟台灣一樣都是 110V/120V )，插座如圖：
+
     <img src="./assets/socket.jpg" width="300" />
     
 
