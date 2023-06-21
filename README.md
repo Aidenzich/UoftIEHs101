@@ -1,5 +1,10 @@
 # International Entrepreneurship Highways (IEHs) 101
 
-## Version
-- [中文版](./cn/)
-- [English Version](./en/)
+## 流程(中文)
+1. [行前準備](./preprocess/cn.md)
+2. [入境加拿大](./entry_canda/cn.md)
+3. 申請必要文件
+4. 開始課程與實習
+
+## Process(English)
+TBD...
