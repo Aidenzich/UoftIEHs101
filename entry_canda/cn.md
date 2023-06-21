@@ -9,12 +9,9 @@
 ## 1. 取得你的學生簽證/出關
 學生簽證是你在這趟交換期間的重要證件，它會影響你的學生身份、打工許可、以及你的保險等等。甚至關乎到你是否能夠取得獎學金，因此請仔細確認你的學生簽證符合要求：
 
-<details>
-<summary>圖</summary>
+<img src="./assets/study_permit.jpg" width="700">
 
 
-![study_permit](./assets/study_permit.jpg)
-</details>
 
 上圖紅線處，必須要有以下條款，如果沒有，請立即向 officer 反應: 
 
@@ -55,10 +52,13 @@ $$
 
 ## 2. 前往住處
 - 在出境大廳先找 PRESTO(多倫多的悠遊卡) 機台，長得像這樣：
+    
     <img src="./assets/presto_machine.avif" width="500">
 - 買 PRESTO 卡，我是買 $26 元 (卡片6元 + 20 元儲值)
+    
     <img src="./assets/presto.png" width="500">
 - 之後的路徑圖如下：
+
     <img src="./assets/route.png" width="500">
 - 上二樓(不確定樓層，樓梯就在 PRESTO 機台旁) 過天橋搭乘 UP Express 到 Bloor Go (用 PRESTO 卡刷卡)
 - 找 Dundas West Station，進站後到地下室，搭往 Kennedy 方向搭到 Spandina
