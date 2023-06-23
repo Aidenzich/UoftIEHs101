@@ -8,7 +8,19 @@
 
 
 ## 1. 申請簽證
-### Letter of Introduction
+
+### Study Permit
+申請學生簽證允許學生於加拿大進行6個月以上的學程。正常情況下若是6個月以下的學程只需要以旅遊簽形式 i.e. eTA。然而本次 IEH 涉及 on/off campus work，故仍需要申請學生簽證允許正式工作。
+
+學生簽證允許 on-campus work，與 20 hours off-campus work。相關規定可見。（在規定上其實還有細分 6 個月以上/下能做的不同，但實務上海關在發簽證不會分那麼細，以還是會與你討論實際內容後再核發細項）
+- [On & Off Campus Work - Centre for International Experience](https://internationalexperience.utoronto.ca/international-student-services/immigration/working-in-canada/on-off-campus-work/)
+- [Work off campus as an international student - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html)
+
+另外 Study Permit 也影響 [Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin.html) (SIN) 的申請。SIN 提供稅務追蹤的功用，而需要 SIN 才可收受薪資抑或獎學金（須報稅）。
+
+學簽平均申請時間約為 7 週（可參考此[網址](https://www.hellostudy.com.tw/why-hello-study/resources/documents/23977/permits-processing-times/)）
+
+#### Letter of Introduction
 
 <img src="./assets/letter_of_introduction.png" width="700" />
 
@@ -28,9 +40,6 @@
 - $\color{red}\text{但是還是建議先申請好eta\, 不然你在搭機時會一直被詢問為何沒有 eta\, 有被延誤的風險}$
     <img src="./assets/study_permit_with_eta.png" width="500" />
 
-    
-    
-
 ### 轉機國家旅行簽證
 - 有些國家在轉機時需要申請旅行簽證，例如：美國轉機時等同入境，所以需要申請 [ESTA](https://esta.cbp.dhs.gov/esta) 。
 - 請確保你的轉機國家是否需要申請旅行簽證。
@@ -40,6 +49,7 @@
 ## 2. 購買機票
 - 請確認你的 [letter of introduction](#letter-of-introduction) 上的 $\color{red}\text{Start Date}$，並在此日期後前往加拿大。
 - 你可以根據你的學簽申請日 + 預計處理時間去推估你的學簽大概多久會核可，來決定你所購買的出發日期。
+- 建議申請到學簽再買機票
 - 直航通常較貴，可以選擇多次轉機的機票，但是請確保你的轉機國家是否需要申請旅行簽證。
 - 同時購買來回機票通常會比較便宜。
 
@@ -52,11 +62,12 @@
     <img src="./assets/offer_of_residence.png" width="500" />
 
     - 特別注意一下你的 $\color{red}\text{Start Date}$，有很大機率會跟你當初申請的日期不同，你可以嘗試去跟住宿系統的人員溝通，但是不見得會成功。
-- 收到 `Move-In Infromation` (如下圖)就可以開始準備行李了。
+- 收到 `Move-In Information` (如下圖)就可以開始準備行李了。
 
     <img src="./assets/movein_info.png" width="500" />      
     
 ## 4. 準備行李
+若抽中宿舍，可先確認宿舍提供物決定打包內容（i.e [Moving In - Graduate House at University of Toronto](https://gradhouse.utoronto.ca/moving-in/)）
 #### 行動網路
 - 支援 esim 的手機(e.g. iphone SE)
 - esim網卡
@@ -65,7 +76,7 @@
 #### 生活用品
 宿舍裡面沒有枕頭與棉被，因此會需要帶或者買：
 - 枕頭
-- 棉被/睡袋
+- 棉被/睡袋/床墊套
 基本上宿舍也沒有提供餐具或廚具，也需要自己準備
 - 餐具(筷子、湯匙、叉子...)
 - 碗等容器
