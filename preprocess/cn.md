@@ -9,7 +9,7 @@
 
 ## 1. 申請簽證
 
-### Study Permit
+### Apply for a Study Permit
 申請學生簽證允許學生於加拿大進行6個月以上的學程。正常情況下若是6個月以下的學程只需要以旅遊簽形式 i.e. eTA。然而本次 IEH 涉及 on/off campus work，故仍需要申請學生簽證允許正式工作。
 
 學生簽證允許 on-campus work，與 20 hours off-campus work。相關規定可見。（在規定上其實還有細分 6 個月以上/下能做的不同，但實務上海關在發簽證不會分那麼細，以還是會與你討論實際內容後再核發細項）
